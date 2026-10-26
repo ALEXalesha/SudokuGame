@@ -1,0 +1,19 @@
+{
+  "name": "sudokugame",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sudoku in one HTML page: four levels by technique, explained hints, notes, a daily puzzle and records",
+  "author": "ALEXalesha",
+  "license": "MIT",
+  "homepage": "https://alexalesha.github.io/SudokuGame/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALEXalesha/SudokuGame.git"
+  },
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.62.1"
+  }
+}
